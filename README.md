@@ -1,1 +1,1 @@
-# society-s1-backend
+# Sport app backend code
